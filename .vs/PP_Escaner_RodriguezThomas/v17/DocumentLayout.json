@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A23C0100-819E-4336-8CBA-CA37574D8ED5}|Test\\Test.csproj|c:\\users\\prodriguez\\downloads\\prog ii c#\\ejercicios\\pp_escaner_rodriguezthomas\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23C0100-819E-4336-8CBA-CA37574D8ED5}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|c:\\users\\prodriguez\\downloads\\prog ii c#\\ejercicios\\pp_escaner_rodriguezthomas\\entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|solutionrelative:entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|c:\\users\\prodriguez\\downloads\\prog ii c#\\ejercicios\\pp_escaner_rodriguezthomas\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|solutionrelative:entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|c:\\users\\prodriguez\\downloads\\prog ii c#\\ejercicios\\pp_escaner_rodriguezthomas\\entidades\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|solutionrelative:entidades\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|c:\\users\\prodriguez\\downloads\\prog ii c#\\ejercicios\\pp_escaner_rodriguezthomas\\entidades\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|solutionrelative:entidades\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|c:\\users\\prodriguez\\downloads\\prog ii c#\\ejercicios\\pp_escaner_rodriguezthomas\\entidades\\excepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|solutionrelative:entidades\\excepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|c:\\users\\prodriguez\\downloads\\prog ii c#\\ejercicios\\pp_escaner_rodriguezthomas\\entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4CAB1-EFCD-4F2B-913F-F8B3184F28A9}|Entidades\\Entidades.csproj|solutionrelative:entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Escaner.cs",
+              "DocumentMoniker": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Escaner.cs",
+              "RelativeDocumentMoniker": "Entidades\\Escaner.cs",
+              "ToolTip": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Escaner.cs",
+              "RelativeToolTip": "Entidades\\Escaner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:54:24.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Excepcion.cs",
+              "DocumentMoniker": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Excepcion.cs",
+              "RelativeDocumentMoniker": "Entidades\\Excepcion.cs",
+              "ToolTip": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Excepcion.cs",
+              "RelativeToolTip": "Entidades\\Excepcion.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowCUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:17:05.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Informes.cs",
+              "DocumentMoniker": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Informes.cs",
+              "RelativeDocumentMoniker": "Entidades\\Informes.cs",
+              "ToolTip": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Informes.cs",
+              "RelativeToolTip": "Entidades\\Informes.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:52:36.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mapa.cs",
+              "DocumentMoniker": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Mapa.cs",
+              "RelativeDocumentMoniker": "Entidades\\Mapa.cs",
+              "ToolTip": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Mapa.cs",
+              "RelativeToolTip": "Entidades\\Mapa.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:29:26.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:59:40.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Libro.cs",
+              "RelativeToolTip": "Entidades\\Libro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:20:09.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Documento.cs",
+              "RelativeDocumentMoniker": "Entidades\\Documento.cs",
+              "ToolTip": "C:\\Users\\prodriguez\\Downloads\\Prog II C#\\Ejercicios\\PP_Escaner_RodriguezThomas\\Entidades\\Documento.cs",
+              "RelativeToolTip": "Entidades\\Documento.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:03:05.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
